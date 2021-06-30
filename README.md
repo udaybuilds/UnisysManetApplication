@@ -1,7 +1,7 @@
 Tools Used : 
-Android Studio
-Java Android
-Android Devices
+1: Android Studio
+2: Java Android
+3: Android Devices
 
 Compile And Execute 
 1: Download the zip from this repository.
